@@ -1,0 +1,8 @@
+--- IDENTIFIED ISSUES IN 'Review' COLUMN ---
+
+1. Corrupted Data: Found 1 Excel '#NAME?' error(s) and 0 Null value(s).
+2. Punctuation: 42 reviews contain punctuation or special characters that need removal.
+3. Numbers: 4 reviews contain numbers/digits.
+4. Inconsistent Casing: 45 reviews contain uppercase letters. Text needs to be converted to lowercase.
+5. Contractions: 8 reviews contain contractions that need expanding.
+6. Slang/Abbreviations: 3 reviews contain common internet or local slang (e.g., 'yg', 'tpi', 'W').
